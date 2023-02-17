@@ -1,0 +1,7 @@
+./notify.events.sh \
+    --token=W9rPNzLyUPkkvKUyBxoujiTJSZWvBdhN \
+    --text="Hello world" \
+    --priority=high \
+    --image=/var/log/hourly.jpg \
+    --image=/var/log/weekly.jpg \
+    --file=/var/log/summary.log
